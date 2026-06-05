@@ -1,0 +1,26 @@
+# Netscape HTTP Cookie File
+# https://curl.se/docs/http-cookies.html
+#
+# ──────────────────────────────────────────────────────────────────────────────
+#  HOW TO GET YOUR TERABOX COOKIES (Netscape format)
+# ──────────────────────────────────────────────────────────────────────────────
+#
+#  Option 1 — Browser Extension (recommended)
+#    • Install "Get cookies.txt LOCALLY" (Chrome/Firefox)
+#    • Login to terabox.com / 1024tera.com
+#    • Click the extension → Export  →  save as  downloads/tera_cookies.txt
+#
+#  Option 2 — EditThisCookie (Chrome)
+#    • Login to terabox.com
+#    • Click EditThisCookie → Export
+#    • Paste into this file in Netscape format
+#
+#  Format (TAB separated, 7 columns):
+#    domain  include_subdomains  path  is_secure  expiry  name  value
+#
+#  Example row:
+#    .terabox.com	TRUE	/	TRUE	1893456000	ndus	YOUR_NDUS_VALUE
+#
+# ──────────────────────────────────────────────────────────────────────────────
+#  PASTE YOUR COOKIES BELOW THIS LINE
+# ──────────────────────────────────────────────────────────────────────────────
