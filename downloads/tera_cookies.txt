@@ -1,26 +1,25 @@
 # Netscape HTTP Cookie File
-# https://curl.se/docs/http-cookies.html
-#
-# ──────────────────────────────────────────────────────────────────────────────
-#  HOW TO GET YOUR TERABOX COOKIES (Netscape format)
-# ──────────────────────────────────────────────────────────────────────────────
-#
-#  Option 1 — Browser Extension (recommended)
-#    • Install "Get cookies.txt LOCALLY" (Chrome/Firefox)
-#    • Login to terabox.com / 1024tera.com
-#    • Click the extension → Export  →  save as  downloads/tera_cookies.txt
-#
-#  Option 2 — EditThisCookie (Chrome)
-#    • Login to terabox.com
-#    • Click EditThisCookie → Export
-#    • Paste into this file in Netscape format
-#
-#  Format (TAB separated, 7 columns):
-#    domain  include_subdomains  path  is_secure  expiry  name  value
-#
-#  Example row:
-#    .terabox.com	TRUE	/	TRUE	1893456000	ndus	YOUR_NDUS_VALUE
-#
-# ──────────────────────────────────────────────────────────────────────────────
-#  PASTE YOUR COOKIES BELOW THIS LINE
-# ──────────────────────────────────────────────────────────────────────────────
+# https://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file! Do not edit.
+
+.1024tera.com	TRUE	/	FALSE	1785212370	browserid	mGPEvAiloRLn9Pjx2EHlejaKam3KaVRirEv3rlV-rJXX-c0ouV0_a7j__JE=
+.1024tera.com	TRUE	/	FALSE	1783222747	lang	en
+.1024tera.com	TRUE	/	FALSE	1811564370	TSID	ahTdkcko91D9dN5juuJwq2cSnsMJJA2h
+.1024tera.com	TRUE	/	FALSE	1815190745	_ga	GA1.1.773928905.1780028372
+.1024tera.com	TRUE	/	FALSE	1787804372	_gcl_au	1.1.1959824920.1780028372
+.1024tera.com	TRUE	/	FALSE	1787985894	_fbp	fb.1.1780028375163.382411446555575629
+.1024tera.com	TRUE	/	FALSE	1785814747	shareUpdateRandom	12
+.1024tera.com	TRUE	/	TRUE	1811565184	fbm_756701921753953	base_domain=.1024tera.com
+.1024tera.com	TRUE	/	TRUE	1785213136	fbsr_756701921753953	ZLOWuFdt3eaL6bsiJeTLdZ-odbuABtTRDk3w3SPI_Os.eyJ1c2VyX2lkIjoiMTE0NTA2Nzg2NzY0NzUwNiIsImNvZGUiOiJBUUpqUmd6UG10d044TDNhZFlCZkx6TWQ3S2w1QVBIbGVKTTZMOUFqU2xNb0RsT1gwNXZzVUt0TnJkdnhPSHJBUnFYWmxiQVFjWV9JR0pDbDFBR1FpWmMyLWF1eURSdzczMnctV015c3ppcjl3QUs1ajRvbzRXRWE4LV80SWF6MGE4MkYzZzYzMkU4TGZ1NXRraWpQSk1Rdzl4enUyUzdmUElDaE4tMFh3TE94dVkwbWFDX3hGNEhBS0RBV05lLVdmbENLcUtzZGprSjJLa1B6TXg3T2Iya1pVR1NiZ2RHRUtVNFhYOFlMakt4clFpb0g2c3hSSmF6TVlBSFpycEJZTG81WHUzbWFOZGJUZFdmWk5VYTk0dmI2R3dMeGRpd0ZMaDl1NTgtcEp4T3F5dGtFRjJIVE14bmNMSGd4Rk1ZQmRpRy1QcUQzZU5jZUZicUxwZVg5cnJvaVhnb0cybVBEQnVQMXJNRk5DMlY0SHBHT29xdUtlN0QwZ1ZNYUh2cXZhakUiLCJhbGdvcml0aG0iOiJITUFDLVNIQTI1NiIsImlzc3VlZF9hdCI6MTc4MDAyOTE4NX0
+.1024tera.com	TRUE	/	TRUE	1811565186	ndus	YfM5cX8peHuiY1f9TdJv_xfz9yuz22GwSjGBqQX3
+dm.1024tera.com	FALSE	/	FALSE	1795657968	g_state	{"i_l":0,"i_ll":1780105968645,"i_b":"BbvwmMyHd0JLHnPH9Y+qExDLx1uZvQEouNb4GpUt344","i_e":{"enable_itp_optimization":0},"i_et":1780029203778}
+.1024tera.com	TRUE	/	FALSE	1814665991	_ga_K6JMPYL99R	GS2.1.s1780105962$o3$g1$t1780105991$j31$l0$h0
+.1024tera.com	TRUE	/	FALSE	1813905895	_tt_enable_cookie	1
+.1024tera.com	TRUE	/	FALSE	1813905895	_ttp	01KSYCEHS96A3CETXSRA306PS1_.tt.1
+.1024tera.com	TRUE	/	FALSE	1813905896	ttcsid	1780209895266::TRFVndlP3mR29ULj6_PB.1.1780209896418.0::1.-8906.0::0.0.0.0::0.0.0
+.1024tera.com	TRUE	/	FALSE	1813905896	ttcsid_CE7B8VRC77U8BHMEOA70	1780209895262::300BnlkiUje28CG4BYHI.1.1780209896421.0
+.1024tera.com	TRUE	/	FALSE	1814769904	_ga_RSNVN63CM3	GS2.1.s1780209896$o3$g0$t1780209903$j53$l0$h0
+dm.1024tera.com	FALSE	/	FALSE	0	csrfToken	FEz2VnOFd60nMuNEEbfnF-Sh
+dm.1024tera.com	FALSE	/	FALSE	1783222743	ndut_fmt	EDE96FC62603C2705AF9D07D228E920E2BAC4DE5DD3D4A7EB4A9EA2002BCB3E7
+dm.1024tera.com	FALSE	/	FALSE	1783222744	ndut_fmv	ede96fc62603c2705af9d07d228e920ee692fd8922edf63cfd585ed7695e1f2c8795a29cc52000c23178192b1e2c39f064e606a7cb65653c0b55070443a7dce5180f1e48238cc54147b8eb78cf356c1a3642d32f79b63613d3040123d82c6996e519aaa8cf5b75de245b79be5ef3eefe
+.1024tera.com	TRUE	/	FALSE	1815190745	_ga_HSVH9T016H	GS2.1.s1780630744$o4$g0$t1780630744$j60$l0$h0
