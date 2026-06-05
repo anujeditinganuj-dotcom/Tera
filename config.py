@@ -16,7 +16,7 @@ OWNER_ID   = 8879016395                           # Your Telegram numeric ID
 SUDO_USERS = [8879016395]
 
 # ── MongoDB ─────────────────────────────────────────────────────────────────
-MONGO_URI     = "mongodb+srv://user:pass@cluster.mongodb.net/terabot"
+MONGO_URI     = "mongodb+srv://Anujedit:Anujedit@cluster0.7cs2nhd.mongodb.net/?appName=Cluster0"
 MONGO_DB_NAME = "terabot"
 
 # ── Bot public links ─────────────────────────────────────────────────────────
