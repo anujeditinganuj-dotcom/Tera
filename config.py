@@ -7,22 +7,22 @@ from pathlib import Path
 from cookie_loader import load_netscape_cookies, load_cookie_string
 
 # ── Telegram credentials ────────────────────────────────────────────────────
-BOT_TOKEN      = "YOUR_BOT_TOKEN"       # @BotFather
-API_ID         = 0                       # my.telegram.org
-API_HASH       = "YOUR_API_HASH"         # my.telegram.org
+BOT_TOKEN      = "8015464564:AAFe6QCyYpfSWPGbwih_u_XejaDLcho1KOI"       # @BotFather
+API_ID         = 37476811                       # my.telegram.org
+API_HASH       = "7aa60670b871050820086c6267371ee6"         # my.telegram.org
 STRING_SESSION = "YOUR_STRING_SESSION"   # Pyrogram string session (4 GB upload)
 
-OWNER_ID   = 0                           # Your Telegram numeric ID
-SUDO_USERS = [OWNER_ID]
+OWNER_ID   = 8879016395                           # Your Telegram numeric ID
+SUDO_USERS = [8879016395]
 
 # ── MongoDB ─────────────────────────────────────────────────────────────────
 MONGO_URI     = "mongodb+srv://user:pass@cluster.mongodb.net/terabot"
 MONGO_DB_NAME = "terabot"
 
 # ── Bot public links ─────────────────────────────────────────────────────────
-BOT_USERNAME  = "@YourBotUsername"
-SUPPORT_GROUP = "https://t.me/yoursupportgroup"
-CHANNEL_LINK  = "https://t.me/yourchannel"
+BOT_USERNAME  = "@unzip_anuj_bot"
+SUPPORT_GROUP = "https://t.me/log_ak_bots"
+CHANNEL_LINK  = "https://t.me/log_ak_bots"
 
 # ── Cookies ───────────────────────────────────────────────────────────────────
 #  Bot automatically reads  downloads/tera_cookies.txt  (Netscape format).
